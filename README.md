@@ -1,1 +1,1 @@
-# amzon-clone using HTML and CSS
+# amazon-clone using HTML and CSS
